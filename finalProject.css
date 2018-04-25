@@ -1,0 +1,7 @@
+/* #lighForm{
+    display: none;
+} */
+
+canvas{
+    z-index: -5;
+}
